@@ -7,7 +7,7 @@ padding: 0;
 }
 #banner {
     background:
-    linear-gradient(rgba(0,0,0,0.5),#09339b),url(Images/banner.jpg);
+    linear-gradient(rgba(0,0,0,0.5),#09339b),url(Images/Background.jpg);
     background-size:cover;
     background-position: center;
     height: 130vh;
