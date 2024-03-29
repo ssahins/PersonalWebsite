@@ -37,8 +37,8 @@ padding: 0;
     font-family: "Bungee Spice", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #6cc644;
-  
+    color: #1afb01;
+    
 }
 .banner-btn {
     margin: 70px auto 0;
@@ -82,7 +82,7 @@ padding: 0;
     position: fixed;
     right: -250px;
     top: 0;
-    background: #009688;
+    background: #0fc3d4;
     z-index: 2;
     transition: 0.5s;
 
@@ -139,6 +139,7 @@ nav ul li a{
    #aboutme {
    width: 100%;
    padding: 70px 0;
+   background-color: #d9ecec;
   }
 
   .title-text{
@@ -234,7 +235,7 @@ nav ul li a{
  #skills {
     width: 100%;
     padding: 70px 0;
-    background: #efefef;
+    background-color: whitesmoke;
 
  }
  .skills-box{
@@ -302,7 +303,7 @@ nav ul li a{
     #project {
         width: 100%;
         padding: 70px 0;
-        background: #cce6dd;
+        background-color: #d9ecec;
     
     }
     
@@ -339,7 +340,7 @@ nav ul li a{
 
     #contact {
         padding: 100px 0 20px;
-        background: #0bb2b8;
+        background-color: whitesmoke;
         position: relative;
     }
 
@@ -403,6 +404,7 @@ nav ul li a{
 .mail-phone p {
     font-size: 20px;
     margin-top: 20px;
+    font-family:Monaco, monospace;
 }
 
 @media screen and (max-width: 770px){
