@@ -234,7 +234,7 @@ nav ul li a{
 
  #skills {
     width: 100%;
-    padding: 70px 0;
+    padding: 50px 0;
     background-color: whitesmoke;
 
  }
@@ -318,12 +318,16 @@ nav ul li a{
     }
     .project-colomn {
         flex-basis: 28%;
-        padding: 10px;
+        padding: 22px;
         margin-bottom: 30px;
         border-radius: 5px;
         box-shadow:0 10px 20px 3px #00968814;
         cursor: pointer;
         transition: transform .5s;
+
+    }
+    .project-colomn a {
+        color:rgb(162, 17, 17);
     }
     .project-colomn:hover {
         transform: translateY(-7px);
