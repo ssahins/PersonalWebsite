@@ -420,7 +420,11 @@ nav ul li a{
     }
 }
 @media screen and (min-width: 1200px) {
-   
+    .contact-left,.contact-right,.contact-bottom {
+        flex-basis: 100%;
+        font-size: 14px;
+
+    }
 }
 
 
