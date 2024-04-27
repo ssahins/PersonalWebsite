@@ -82,7 +82,7 @@ padding: 0;
     position: fixed;
     right: -250px;
     top: 0;
-    background: #0fc3d4;
+    background: #19939f;
     z-index: 2;
     transition: 0.5s;
 
@@ -139,7 +139,7 @@ nav ul li a{
    #aboutme {
    width: 100%;
    padding: 70px 0;
-   background-color: #d9ecec;
+   background-color: #e8e8e8;
   }
 
   .title-text{
@@ -235,7 +235,7 @@ nav ul li a{
  #skills {
     width: 100%;
     padding: 50px 0;
-    background-color: whitesmoke;
+    background-color: #ffefd5;
 
  }
  .skills-box{
@@ -303,7 +303,7 @@ nav ul li a{
     #project {
         width: 100%;
         padding: 70px 0;
-        background-color: #d9ecec;
+        background-color: #e8e8e8;
     
     }
     
@@ -327,7 +327,7 @@ nav ul li a{
 
     }
     .project-colomn a {
-        color:rgb(162, 17, 17);
+        color:rgb(0, 74, 193);
     }
     .project-colomn:hover {
         transform: translateY(-7px);
@@ -344,7 +344,7 @@ nav ul li a{
 
     #contact {
         padding: 100px 0 20px;
-        background-color: whitesmoke;
+        background-color: #ffefd5;
         position: relative;
     }
 
