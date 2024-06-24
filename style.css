@@ -139,7 +139,7 @@ nav ul li a{
    #aboutme {
    width: 100%;
    padding: 70px 0;
-   background-color: #e8e8e8;
+   background-color: #bdc3c7;
   }
 
   .title-text{
@@ -149,7 +149,7 @@ nav ul li a{
  .title-text p{
   margin: auto;
   font-size: 20px;
-  color: #009688;
+  color: #006696;
   font-weight: bold;
   position: relative;
   z-index: 1;
@@ -199,7 +199,7 @@ nav ul li a{
     text-align: left; 
     margin-bottom: 10px;
     font-weight: 100;
-    color: #009688;
+    color: #8e44ad;
  
    }
    .aboutme-desc{
@@ -211,6 +211,7 @@ nav ul li a{
  .aboutme-text p {
     padding: 0 20px;
     text-align: initial ;
+    color: #0b0431;
  }
  @media screen and (max-width: 770px){
     .title-text h1{
@@ -235,7 +236,7 @@ nav ul li a{
  #skills {
     width: 100%;
     padding: 50px 0;
-    background-color: #ffefd5;
+    background-color: #bdc3c7;
 
  }
  .skills-box{
@@ -303,7 +304,7 @@ nav ul li a{
     #project {
         width: 100%;
         padding: 70px 0;
-        background-color: #e8e8e8;
+        background-color: #bdc3c7;
     
     }
     
@@ -321,13 +322,13 @@ nav ul li a{
         padding: 22px;
         margin-bottom: 30px;
         border-radius: 5px;
-        box-shadow:0 10px 20px 3px #00968814;
+        box-shadow:0 10px 20px 3px #d3efef;
         cursor: pointer;
         transition: transform .5s;
 
     }
     .project-colomn a {
-        color:rgb(0, 74, 193);
+        color:rgb(37, 0, 244);
     }
     .project-colomn:hover {
         transform: translateY(-7px);
@@ -344,7 +345,7 @@ nav ul li a{
 
     #contact {
         padding: 100px 0 20px;
-        background-color: #ffefd5;
+        background-color: #bdc3c7;
         position: relative;
     }
 
@@ -360,7 +361,7 @@ nav ul li a{
 .contact-left .fa {
 
        font-size: 50px;
-       color:#4078c0,#6e5494,#bd2c00,#c9510c,#6cc644,#fafafa;
+       color:#2275e0,#6e5494,#bd2c00,#c9510c,#6cc644,#fafafa;
        margin: 10px;
        transition: .5s;
 
@@ -369,7 +370,7 @@ nav ul li a{
    .contact-right .fa {
 
     font-size: 50px;
-    color: #4078c0,#6E5494,#bd2c00, #C9510C,#6CC644,#fafafa,#000;
+    color: black;
     margin: 10px;
     transition: .5s;
 
@@ -378,7 +379,7 @@ nav ul li a{
   
   .contact-bottom .fa {
     font-size: 50px;
-    color: #405DE6,#5851DB,#833AB4, #C13584,#E1306C,#FD1D1D;
+    color: red;
     margin: 10px;
     transition: .5s;
 
@@ -394,7 +395,7 @@ nav ul li a{
    line-height: 40px;
    border: 1px soldi #009688;
    margin: 40px 5px 0;
-   color:#4078c0,#6e5494,#bd2c00,#c9510c,#6cc644,#fafafa;
+   color: rgb(171, 15, 15);
    cursor: pointer;
 
 
