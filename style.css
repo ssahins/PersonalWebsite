@@ -68,6 +68,12 @@ body {
   transition: background 0.5s, color 0.5s;
 }
 
+.banner-content {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+}
+
 /* Banner background variables */
 :root {
   --banner-bg: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
