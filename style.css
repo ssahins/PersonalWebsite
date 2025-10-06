@@ -55,7 +55,7 @@ body {
 .toggle-mode { font-size: 1.3rem; color: var(--accent-color); cursor: pointer; transition: 0.3s; }
 .toggle-mode:hover { transform: rotate(20deg); }
 
- BANNER SECTION 
+
 .banner {
   height: 100vh;
   background: var(--banner-bg);
